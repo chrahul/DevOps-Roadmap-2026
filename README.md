@@ -547,5 +547,3 @@ A strong DevOps engineer understands **how these components interact to deliver 
 ---
 
 
-* **a story-driven blog version (the LinkedIn interview story you started with)**
-* **a full YouTube script explaining this roadmap**.
