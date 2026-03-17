@@ -1,12 +1,4 @@
-#  **Course Structure **
-
-## **Course Name**
-
 **Git & GitHub Mastery for Real-World DevOps**
-
----
-
-## **Course Positioning (Important – Use Everywhere)**
 
 This program is designed to help you **move from basic Git usage to real-world collaboration and production-level workflows** used in engineering teams.
 
